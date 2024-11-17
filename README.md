@@ -32,8 +32,8 @@
 ---
 
 ## 🔧 IDEs & Technologies:
-![Unity](https://img.icons8.com/?size=100&id=26029&format=png&color=000000)
-![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Logo_2021.svg" alt="Unity Logo" width="100">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="100">
 
 ---
 
