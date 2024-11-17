@@ -15,12 +15,12 @@
 ---
 
 ## 🖥️ Programming Languages:
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white)
+![C#](https://img.icons8.com/?size=100&id=55251&format=png&color=000000)
+![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
+![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
+![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![Assembly](https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000)
 
 ---
 
