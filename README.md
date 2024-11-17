@@ -8,31 +8,31 @@
 ---
 
 ## 📫 How to Contact Me:
-[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/ofek-weiss)
-[![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/Ofek-Weiss)
-[![Gmail](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:ofekweiss3@gmail.com)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://linkedin.com/in/ofek-weiss)  
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/Ofek-Weiss)  
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg)](mailto:ofekweiss3@gmail.com)
 
 ---
 
 ## 🖥️ Programming Languages:
-![C#](https://img.icons8.com/?size=100&id=55251&format=png&color=000000)
-![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
-![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
-![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)
-![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![Assembly](https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Assembly_language.svg" alt="Assembly" width="50">
 
 ---
 
 ## Operating Systems:
-![Windows](https://img.icons8.com/?size=100&id=108792&format=png&color=000000)
-![Linux](https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000)
-![Ubuntu](https://img.icons8.com/?size=100&id=63208&format=png&color=000000)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" alt="Windows" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.svg" alt="Linux" width="50">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="Ubuntu" width="50">
 
 ---
 
 ## 🔧 IDEs & Technologies:
-<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="100">  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="100">
+<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" width="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50">
 
 ---
 
@@ -40,4 +40,4 @@
 Thank you for visiting my profile!  
 Feel free to take a look at my projects and reach out to me for collaborations, opportunities, or just to say hi. 😊
 
-<sub>🖼️ Icons provided by <a href="https://icons8.com" target="_blank">Icons8</a>.</sub>
+<sub>🖼️ Icons sourced from Wikipedia and World Vector Logo.</sub>
