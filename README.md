@@ -43,3 +43,6 @@
 ## 💬 Feel Free to Connect!
 Thank you for visiting my profile!  
 Feel free to take a look at my projects and reach out to me for collaborations, opportunities, or just to say hi. 😊
+
+<sub>🖼️ Icons provided by <a href="https://icons8.com" target="_blank">Icons8</a>.</sub>
+
