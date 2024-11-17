@@ -31,8 +31,8 @@
 ---
 
 ## 🔧 IDEs & Technologies:
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Unity](https://img.icons8.com/?size=100&id=39848&format=png&color=000000)
+![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 ---
