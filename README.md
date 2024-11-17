@@ -25,15 +25,16 @@
 ---
 
 ## Operating Systems:
-![Windowns](https://img.icons8.com/?size=100&id=108792&format=png&color=000000)
+![Windows](https://img.icons8.com/?size=100&id=108792&format=png&color=000000)
 ![Linux](https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000)
 ![Ubuntu](https://img.icons8.com/?size=100&id=63208&format=png&color=000000)
+
 ---
 
 ## 🔧 IDEs & Technologies:
 ![Unity](https://img.icons8.com/?size=100&id=39848&format=png&color=000000)
 ![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/OpenGL_logo.svg" alt="OpenGL" width="100" height="100">
 
 ---
 
@@ -42,4 +43,3 @@ Thank you for visiting my profile!
 Feel free to take a look at my projects and reach out to me for collaborations, opportunities, or just to say hi. 😊
 
 <sub>🖼️ Icons provided by <a href="https://icons8.com" target="_blank">Icons8</a>.</sub>
-
