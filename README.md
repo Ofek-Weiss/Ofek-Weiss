@@ -9,7 +9,7 @@
 
 ## 📫 How to Contact Me:
 [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/ofek-weiss)
-[![GitHub](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000)](https://github.com/Ofek-Weiss)
+[![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/Ofek-Weiss)
 [![Gmail](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:ofekweiss3@gmail.com)
 
 ---
