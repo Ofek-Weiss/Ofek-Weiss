@@ -34,7 +34,8 @@
 ## 🔧 IDEs & Technologies:
 ![Unity](https://img.icons8.com/?size=100&id=39848&format=png&color=000000)
 ![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
-![OpenGL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdem59qlwbaJCm7ILvYGmej-w30uHoH6Qncg&s)
+![OpenGL]( https://www.iconshock.com)
+
 ---
 
 ## 💬 Feel Free to Connect!
