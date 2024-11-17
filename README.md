@@ -5,10 +5,14 @@
 - 🌱 Currently expanding knowledge in **Game Development**.
 - 🚀 I love working on exciting projects that challenge my creativity and technical skills.
 
-  📫 **How to Contact Me:**  
-- [LinkedIn](https://linkedin.com/in/ofek-weiss)  
-- [GitHub](https://github.com/Ofek-Weiss)  
-- [Email](mailto:ofekweiss3@gmail.com)
+---
+
+## 📫 How to Contact Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ofek-weiss)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ofek-Weiss)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofekweiss3@gmail.com)
+
+---
 
 ## 🖥️ Programming Languages:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -18,10 +22,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white)
 
+---
+
 ## 🔧 IDEs & Technologies:
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
+---
 
 ## 💬 Feel Free to Connect!
 Thank you for visiting my profile!  
