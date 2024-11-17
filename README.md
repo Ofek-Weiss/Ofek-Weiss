@@ -34,8 +34,7 @@
 ## 🔧 IDEs & Technologies:
 ![Unity](https://img.icons8.com/?size=100&id=39848&format=png&color=000000)
 ![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/OpenGL_logo.svg" alt="OpenGL" width="100" height="100">
-
+![OpenGL](https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg)
 ---
 
 ## 💬 Feel Free to Connect!
