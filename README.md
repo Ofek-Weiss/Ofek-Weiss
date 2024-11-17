@@ -8,9 +8,9 @@
 ---
 
 ## 📫 How to Contact Me:
-[![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://linkedin.com/in/ofek-weiss)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ofek-Weiss)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofekweiss3@gmail.com)
+[![LinkedIn](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&related_id=3536505)](https://linkedin.com/in/ofek-weiss)
+[![GitHub](https://www.flaticon.com/free-icon/github_2111432?term=github&page=1&position=4&origin=search&related_id=2111432)](https://github.com/Ofek-Weiss)
+[![Gmail](https://www.flaticon.com/free-icon/gmail_5968534?term=gmail&page=1&position=4&origin=search&related_id=5968534)](mailto:ofekweiss3@gmail.com)
 
 ---
 
