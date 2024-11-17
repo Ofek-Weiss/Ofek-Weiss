@@ -32,7 +32,7 @@
 ---
 
 ## 🔧 IDEs & Technologies:
-![Unity](https://img.icons8.com/?size=100&id=39848&format=png&color=000000)
+![Unity](https://img.icons8.com/?size=100&id=26029&format=png&color=000000)
 ![PostgreSQL](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
 
 ---
