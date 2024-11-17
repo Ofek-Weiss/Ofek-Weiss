@@ -32,7 +32,7 @@
 ---
 
 ## 🔧 IDEs & Technologies:
-<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="100">
+<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="100">  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="100">
 
 ---
 
