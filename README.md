@@ -48,8 +48,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="80" title="Unity">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="80" title="PostgreSQL">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="80" title="Selenium">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Cucumber-logo.svg" width="80" title="Cucumber">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Testng.png" width="80" title="TestNG">
+  <img src="https://raw.githubusercontent.com/cucumber/cucumber-logo/main/cucumber.png" width="80" title="Cucumber">
+  <img src="https://testng.org/img/testng-logo.png" width="80" title="TestNG">
 </p>
 
 ---
