@@ -10,13 +10,13 @@
 ## 📫 How to Contact Me:
 <p align="left">
   <a href="https://linkedin.com/in/ofek-weiss">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="60">
   </a>
   <a href="https://github.com/Ofek-Weiss">
-    <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="50">
+    <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="60">
   </a>
   <a href="mailto:ofekweiss3@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="60">
   </a>
 </p>
 
@@ -24,32 +24,32 @@
 
 ## 🖥️ Programming Languages:
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" width="50" title="C#">
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50" title="Java">
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="50" title="C">
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50" title="C++">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" title="Python">
-  <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" width="50" title="Assembly">
+  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" width="70" title="C#">
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="70" title="Java">
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="70" title="C">
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="70" title="C++">
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="70" title="Python">
+  <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" width="70" title="Assembly">
 </p>
 
 ---
 
 ## 🖥️ Operating Systems:
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" width="50" title="Windows">
-  <img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" width="50" title="Linux">
-  <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" width="50" title="Ubuntu">
+  <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" width="70" title="Windows">
+  <img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" width="70" title="Linux">
+  <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" width="70" title="Ubuntu">
 </p>
 
 ---
 
 ## 🔧 IDEs & Technologies:
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="50" title="Unity">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" title="PostgreSQL">
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50" title="Selenium">
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50" title="Cucumber">
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50" title="TestNG">
+  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="80" title="Unity">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="80" title="PostgreSQL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="80" title="Selenium">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Cucumber_Logo.svg" width="80" title="Cucumber">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Testng.png" width="80" title="TestNG">
 </p>
 
 ---
