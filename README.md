@@ -2,15 +2,15 @@
 
 ## 🧑‍💻 About Me:
 - 🎓 I'm a **Third-Year Computer Science Student** passionate about coding and problem-solving.
-- 🌱 Currently expanding knowledge in **Mobile Developing And Test Automation Frameworks**.
+- 🌱 Currently expanding knowledge in **Mobile Development and Test Automation Frameworks**.
 - 🚀 I love working on exciting projects that challenge my creativity and technical skills.
 
 ---
 
 ## 📫 How to Contact Me:
-[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/ofek-weiss)
-[![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/Ofek-Weiss)
-[![Gmail](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:ofekweiss3@gmail.com)
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/ofek-weiss)  
+[![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/Ofek-Weiss)  
+[![Gmail](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:ofekweiss3@gmail.com)  
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Operating Systems:
+## 🖥️ Operating Systems:
 ![Windows](https://img.icons8.com/?size=100&id=108792&format=png&color=000000)
 ![Linux](https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000)
 ![Ubuntu](https://img.icons8.com/?size=100&id=63208&format=png&color=000000)
@@ -32,7 +32,13 @@
 ---
 
 ## 🔧 IDEs & Technologies:
-<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="100">  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="100">
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium Logo" width="100">
+  <img src="https://raw.githubusercontent.com/cucumber/cucumber-logo/main/cucumber.png" alt="Cucumber Logo" width="100">
+  <img src="https://testng.org/img/testng-logo.png" alt="TestNG Logo" width="100">
+</p>
 
 ---
 
@@ -41,10 +47,3 @@ Thank you for visiting my profile!
 Feel free to take a look at my projects and reach out to me for collaborations, opportunities, or just to say hi. 😊
 
 <sub>🖼️ Icons provided by <a href="https://icons8.com" target="_blank">Icons8</a>.</sub>
-
-
-this is my github readme
-
-can u add 
-Selenuim and cucumber 
-maybe add somewhere TestNG
