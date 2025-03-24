@@ -37,7 +37,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium Logo" width="100">
-  <img src="https://static-00.iconduck.com/assets.00/cucumber-icon-512x512-ug9ogdt7.png" alt="Cucumber Logo" width="100">
+  <img src="https://i.imgur.com/uM7qkn2.png" alt="Cucumber Logo" width="100">
 </span>
 
 ---
