@@ -37,7 +37,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium Logo" width="100">
-  <img src="https://avatars.githubusercontent.com/u/1254848?s=200&v=4" alt="TestNG Logo" width="100">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="TestNG Logo" width="100">
 </span>
 
 ---
