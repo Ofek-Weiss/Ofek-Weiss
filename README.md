@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ofek Weiss!
 
 ## 🧑‍💻 About Me:
-- 🎓 I'm a **Third-Year Computer Science Student** passionate about coding and problem-solving.
+- 🎓 I'm a **Recent Computer Science Graduate** passionate about coding and problem-solving.
 - 🌱 Currently expanding knowledge in **Mobile Developing And Test Automation Frameworks**.
 - 🚀 I love working on exciting projects that challenge my creativity and technical skills.
 
